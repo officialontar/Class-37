@@ -2,9 +2,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# 🎓 Class-39 Django Student Information System
+# 🎓 Class-37 Django Student Information System
 
-A complete Django-based Student Information Management System built during Class-39.  
+A complete Django-based Student Information Management System built during Class-37.  
 This project includes student CRUD operations, image upload, and admin customization.
 
 ---
@@ -43,6 +43,7 @@ It allows users to perform full CRUD operations and manage student records effic
 
 ## 📂 Project Structure
 
+
 ```
 Class-39/
 │
@@ -63,8 +64,8 @@ Class-39/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/officialontar/Class-39.git
-cd Class-39/core
+git clone https://github.com/officialontar/Class-37.git
+cd Class-37/core
 ```
 
 ### 2️⃣ Create Virtual Environment (Windows)
@@ -118,7 +119,7 @@ http://127.0.0.1:8000/admin/
 
 ## 👤 Author
 
-**Sakib Khan**  
+MD. ANISUJJAMAN ONTAR
 GitHub: https://github.com/officialontar
 
 ---
