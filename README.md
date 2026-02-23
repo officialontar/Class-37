@@ -43,15 +43,14 @@ It allows users to perform full CRUD operations and manage student records effic
 
 ## 📂 Project Structure
 
-
 ```
-Class-39/
+Class-37/
 │
-├── core/
-├── student_info/
-├── templates/
-├── static/
-├── media/
+├── core/                 # Django project settings
+├── student_info/         # Main application
+├── templates/            # HTML Templates
+├── static/               # Static files (CSS, JS)
+├── media/                # Uploaded Images
 ├── manage.py
 ├── requirements.txt
 └── .gitignore
@@ -87,17 +86,27 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-### 5️⃣ Run Server
+### 5️⃣ Run Development Server
 
 ```bash
 python manage.py runserver
 ```
 
-Visit:
+Visit in your browser:
 
 ```
 http://127.0.0.1:8000/
 ```
+
+---
+
+## 📸 Image Upload Feature
+
+This project supports:
+
+- Uploading student profile images
+- Updating profile pictures
+- Media file configuration in Django
 
 ---
 
@@ -109,7 +118,7 @@ Create superuser:
 python manage.py createsuperuser
 ```
 
-Visit:
+Then visit:
 
 ```
 http://127.0.0.1:8000/admin/
@@ -119,11 +128,11 @@ http://127.0.0.1:8000/admin/
 
 ## 👤 Author
 
-MD. ANISUJJAMAN ONTAR
+**MD. ANISUJJAMAN ONTAR**  
 GitHub: https://github.com/officialontar
 
 ---
 
 ## ⭐ Project Status
 
-✅ Completed (Class-39 Final Version)
+✅ Completed (Class-37 Final Version)
